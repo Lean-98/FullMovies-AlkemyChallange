@@ -52,9 +52,9 @@ To run this project, you will need to add the following environment variables to
 
 React, Bootstrap, react-icons, React router dom v6, axios, react-hook-form, yup
 
-## Demo
+<!-- ## Demo
 
-- Netlify: [MoviesFull-v1.0](https://portfoliocv-leandropiazza.netlify.app/)
+- Netlify: [MoviesFull-v1.0](https://portfoliocv-leandropiazza.netlify.app/) -->
 
 ## Authors
 
